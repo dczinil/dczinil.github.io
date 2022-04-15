@@ -47,7 +47,11 @@ body {
   text-align: center;
   padding: 0.5em;
 }
-
-#post {
+#post{
   background: white;
   padding: 1em;
+}
+
+#like:hover{
+  color: dodgerblue;
+}
